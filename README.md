@@ -1,2 +1,2 @@
 # Chest-X-Ray-Classification-with-Vision-Transformer-ViT-
-./Vit.pdf
+[View the Vit PDF](./Vit.pdf)
